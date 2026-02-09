@@ -30,10 +30,6 @@ pipeline {
                     bat "mvn sonar:sonar -f DemoIC"
                 }
             }
-        
         }
-
-}
     }
-
 }
